@@ -28,3 +28,12 @@
 
 ## 결과 화면
 
+![초기 화면](/images/start.png)
+![영화 정보 화면](/images/information.png)
+![지하철 역 선택 화면](/images/subway.png)
+![현재 위치 화면](/images/location.png)
+<br>(!!현재 Simulator로 실행을 한 결과 위치가 미국으로 뜨는데 디바이스에서 진행할 경우 올바르게 나온다)
+<br>
+![결과 화면](/images/result.png)
+<br>
+<br>(!!가독성이 매우 떨어지고 정보가 제대로 출력이 되지 않고 있다. 추후에 더 수정할 계획이다.)
