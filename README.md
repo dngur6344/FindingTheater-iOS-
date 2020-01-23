@@ -37,3 +37,16 @@
 ![결과 화면](/images/result.png)
 <br>
 <br>(!!가독성이 매우 떨어지고 정보가 제대로 출력이 되지 않고 있다. 추후에 더 수정할 계획이다.)
+
+# Upgrade Version
+## 결과 화면
+<img src="/images/photo1.png" width="300"> 
+<img src="/images/photo2.png" width="300">
+영화 선택 화면은 영화 포스터와 그것에 맞게 가우시안 블러를 적용하여 배경을 작성하였다.
+<img src="/images/photo3.png" width="300">
+<img src="/images/photo4.png" width="300">
+<img src="/images/photo5.png" width="300">
+<img src="/images/photo6.png" width="300">
+<img src="/images/photo7.png" width="480">
+<img src="/images/photo8.png" width="480">
+아이패드에서만 지원하는데, 좌석에서 스크린이 어떻게 보일지 시뮬레이션해주는 기능 또한 추가하였다.
